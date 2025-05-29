@@ -1,0 +1,29 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(12, 43, 24);
+    color: rgba(21, 255, 126, 0.897);
+    text-shadow: 0px 0px 5px rgb(102, 255, 0);
+}
+img{
+    margin-right: 100px;
+}
+
+.divimg{
+    float: left;
+}
+h2{
+    font-size: 50px;
+    text-align: center;
+}
+h3{
+    font-weight: 300;
+}
+h4{
+    font-weight: 300;
+    text-shadow: 0px 0px 3px rgb(102, 255, 0);
+    
+}
+
+p{
+    text-shadow: 0px 0px 3px rgb(102, 255, 0);
+}
